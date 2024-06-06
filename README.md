@@ -50,83 +50,83 @@ A categorized list of LeetCode and GeeksforGeeks problems on Binary Trees:
 
 ### Easy :
 
-Binary Tree Representation in C++ (https://bit.ly/3gn5Soh)
+- Binary Tree Representation in C++ (https://bit.ly/3gn5Soh)
 
-Binary Tree Traversals in Binary Tree (https://www.codingninjas.com/codestudio/problems/tree-traversal_981269?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
+- Binary Tree Traversals in Binary Tree (https://www.codingninjas.com/codestudio/problems/tree-traversal_981269?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)
 
-Preorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- Preorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
-Inorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- Inorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-Post-order Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- Post-order Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
-Level order Traversal / Level order traversal in spiral form (https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- Level order Traversal / Level order traversal in spiral form (https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-Iterative Preorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- Iterative Preorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
-Iterative Inorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- Iterative Inorder Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-Post-order Traversal of Binary Tree using 2 stack (https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- Post-order Traversal of Binary Tree using 2 stack (https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
 ### Medium :
 
-Post-order Traversal of Binary Tree using 1 stack (https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- Post-order Traversal of Binary Tree using 1 stack (https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
-Preorder, Inorder, and Postorder Traversal in one Traversal (https://bit.ly/3T3oW9M)
+- Preorder, Inorder, and Postorder Traversal in one Traversal (https://bit.ly/3T3oW9M)
 
-Height of a Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- Height of a Binary Tree (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-Check if the Binary tree is height-balanced or not (https://leetcode.com/problems/balanced-binary-tree/)
+- Check if the Binary tree is height-balanced or not (https://leetcode.com/problems/balanced-binary-tree/)
 
-Diameter of Binary Tree (https://leetcode.com/problems/diameter-of-binary-tree/)
+- Diameter of Binary Tree (https://leetcode.com/problems/diameter-of-binary-tree/)
 
-Maximum path sum (https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- Maximum path sum (https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-Check if two trees are identical or not (https://leetcode.com/problems/balanced-binary-tree/)
+- Check if two trees are identical or not (https://leetcode.com/problems/balanced-binary-tree/)
 
-Zig Zag Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- Zig Zag Traversal of Binary Tree (https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
-Boundary Traversal of Binary Tree (https://leetcode.com/problems/boundary-of-binary-tree/)
+- Boundary Traversal of Binary Tree (https://leetcode.com/problems/boundary-of-binary-tree/)
 
-Vertical Order Traversal of Binary Tree (https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- Vertical Order Traversal of Binary Tree (https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
-Top View of Binary Tree (https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
+- Top View of Binary Tree (https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1)
 
-Bottom View of Binary Tree (https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
+- Bottom View of Binary Tree (https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)
 
-Right/Left View of Binary Tree (https://leetcode.com/problems/binary-tree-right-side-view/)
+- Right/Left View of Binary Tree (https://leetcode.com/problems/binary-tree-right-side-view/)
 
-Symmetric Binary Tree (https://leetcode.com/problems/symmetric-tree/)
+- Symmetric Binary Tree (https://leetcode.com/problems/symmetric-tree/)
 
 ### Hard :
 
-Root to Node Path in Binary Tree (https://bit.ly/3QA600D)
+- Root to Node Path in Binary Tree (https://bit.ly/3QA600D)
 
-LCA in Binary Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- LCA in Binary Tree (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
-Maximum width of a Binary Tree (https://leetcode.com/problems/maximum-width-of-binary-tree/)
+- Maximum width of a Binary Tree (https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
-Check for Children Sum Property (https://bit.ly/3dEr73g)
+- Check for Children Sum Property (https://bit.ly/3dEr73g)
 
-Print all the Nodes at a distance of K in a Binary Tree (https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
+- Print all the Nodes at a distance of K in a Binary Tree (https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
 
-Minimum time taken to BURN the Binary Tree from a Node (https://bit.ly/3wcg7k1)
+- Minimum time taken to BURN the Binary Tree from a Node (https://bit.ly/3wcg7k1)
 
-Count total Nodes in a COMPLETE Binary Tree (https://leetcode.com/problems/count-complete-tree-nodes/)
+- Count total Nodes in a COMPLETE Binary Tree (https://leetcode.com/problems/count-complete-tree-nodes/)
 
-Requirements needed to construct a Unique Binary Tree | Theory (https://bit.ly/3UVCR1U)
+- Requirements needed to construct a Unique Binary Tree | Theory (https://bit.ly/3UVCR1U)
 
-Construct Binary Tree from inorder and preorder (https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+- Construct Binary Tree from inorder and preorder (https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
-Construct the Binary Tree from Postorder and Inorder Traversal (https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+- Construct the Binary Tree from Postorder and Inorder Traversal (https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 
-Serialize and deserialize Binary Tree (https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- Serialize and deserialize Binary Tree (https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
-Morris Preorder Traversal of a Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- Morris Preorder Traversal of a Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-Morris Inorder Traversal of a Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- Morris Inorder Traversal of a Binary Tree (https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-Flatten Binary Tree to LinkedList (https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+- Flatten Binary Tree to LinkedList (https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
 
 
